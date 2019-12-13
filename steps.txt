@@ -12,6 +12,4 @@ cherry-pick
 reset
 fetch
 pull --rebase
-git reset --hard
-git reset --soft
 
