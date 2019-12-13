@@ -11,3 +11,4 @@ tags (создайте несколько тегов, проверьте что 
 stash
 cherry-pick
 reset
+fetch
