@@ -14,5 +14,4 @@ fetch
 pull --rebase
 git reset --hard
 git reset --soft
-git reset --mixed
 
