@@ -12,4 +12,5 @@ stash
 cherry-pick
 reset
 fetch
+pull --rebase
 
